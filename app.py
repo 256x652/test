@@ -1,5 +1,3 @@
 # Hii, this is the first file created in the branch, lets go github.
-x="What is GIT"
-print(x)
-y="Let's Code\n"
+y="Let's Code in GIT\n"
 print(5*y)
